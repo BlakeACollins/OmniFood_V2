@@ -312,3 +312,20 @@ body{
     height: 2.4rem;
     width: 2.4rem;
 }
+.diet__list{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1.6rem;
+}
+.list__icon{
+    height: 3rem;
+    width: 3rem;
+    color: #cf711f;
+}
+.list__item{
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+}
